@@ -1,0 +1,121 @@
+{
+  "hello": "Hello",
+  "home": "Home",
+  "resume": "Resume",
+  "pokemon": "Pokémon",
+  "greeting": "Hello, I'm [Your Name]. Welcome to my personal website!",
+  "about": "About Me",
+  "education-title": "Education & Learning",
+  "skills-title": "Skills",
+  "experience": "Experience",
+  "experience-title": "Work Experience",
+  "contact_info": [
+    {
+      "title": "Email",
+      "data": "aforellanar@gmail.com",
+      "prefix": "mailto:",
+      "url": "aforellanar@gmail.com"
+    },
+    {
+      "title": "LinkedIn",
+      "data": "https://www.linkedin.com/in/jonhatan-orellana",
+      "prefix": "",
+      "url": "https://www.linkedin.com/in/jonhatan-orellana-15605b252/"
+    },
+    {
+      "title": "Phone",
+      "data": "+502 5153-0930",
+      "prefix": "tel:",
+      "url": "+502 5153-0930"
+    }
+  ],
+  "header": [
+    {
+      "name": "Jonhatan Orellana",
+      "role": "Junior developer internship",
+      "summary": "The field where I am currently working is about the development of web pages with languages such as Html | Css | JavaScript | PHP | Xampp | MySql | Git Hub | Pyton | DataScience"
+    }
+],
+"workExperience_info": [
+  {
+    "experience": "AlphaPoint",
+    "title": "Junior developer internship",
+    "summary": "Creation of websites with Java script, Html, css and React library; implementation of code version control, task management in Jira, management of css libraries, layout of websites converting figma elements into web elements",
+    "start_date": "OCT 2023 ",
+    "end_date": "Present"
+  },
+  {
+    "experience": "-Platzi School of Development and Technology",
+    "title": "Curso Profecional de Git Y Git Hub",
+    "summary": "In this course I learned how to manage the Git bash command thermal by managing Git Hub online repositories",
+    "start_date": "OCT 2023 ",
+    "end_date": "OCT 2023"
+  },
+  {
+    "experience": "-Platzi School of Development and Technology",
+    "title": "Curso JavaScript",
+    "summary": "Website creation with Javascript, Html, css and algorithm development",
+    "start_date": "OCT 2023 ",
+    "end_date": "OCT 2023"
+  },
+  {
+    "experience": "-Platzi School of Development and Technology",
+    "title": "Curso Profecional de React",
+    "summary": "Creation of TODOMACHINE web application with JavaScript, Html, css and React library using React Hucks by uploading to git pages",
+    "start_date": "Dic 2023 ",
+    "end_date": "dic 2023"
+  }
+  
+],
+"education_info": [
+  {
+    "school": "-Platzi School of Development and Technology",
+    "title": "Basic Programming Course",
+    "start_date": " ",
+    "end_date": "NOV 2023"
+  },
+    {
+      "school": "Complejo Cetach",
+      "title": "Industrial Bachelor and Computer Expert",
+      "start_date": "enero 2022",
+      "end_date": "2024"
+    }
+  
+  
+],
+"skills_info": [
+  {
+    "title": "JavaScript",
+     "level": 3
+  },
+  {
+    "title": "HTML",
+     "level": 5
+  },
+  {
+    "title": "Css",
+     "level": 3
+  },
+  {
+    "title": "React",
+     "level": 3
+  },
+  {
+    "title": "PHP",
+     "level": 3
+  },
+  {
+    "title": "PHYTON",
+     "level": 2
+  },
+  {
+    "title": "SQL",
+     "level": 3
+  },
+  {
+    "title": "Coding fundamentals. HTML, CSS, JavaScript, SQL",
+     "level": 5
+  }
+],
+"contact": "Contact"
+}
