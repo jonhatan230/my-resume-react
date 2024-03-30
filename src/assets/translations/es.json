@@ -32,21 +32,35 @@
   "header":[{
     "name": "Jonhatan Orellana",
     "role": "Junior developer internship",
-    "summary": "El campo donde actualmente estoy es sobre el desarrollo de paginas web con lenguajes como Html,Css,javascript ,php , xampp ,mySql git , git hub,pyton de data science."
+    "summary": "El campo donde actualmente estoy es sobre el desarrollo de paginas web con lenguajes como | Html | Css | JavaScript | PHP | Xampp | MySql | Git Hub | Pyton | DataScience"
    }
   ],
   "workExperience_info": [
     {
       "experience": "Fintef",
       "title": " AlphaPoint ",
-      "summary": "Diseño de experiencias de extremo a extremo para productos financieros en plataformas móviles y web. Trabajando en estrecha colaboración con gerentes, especialistas en marketing y desarrolladores.",
+      "summary": "Creacion de sitios web con JavaScript, Html,css y libreria de React; implementacion de control de versiones de codigo, gestion de tareas en Jira,manejo de librerias de css,maquetacion de sitios web connvirtiendo elementosde figma en elementos web",
       "start_date": "OCT 2023 ",
       "end_date": "Actualidad"
     },
     {
       "experience": "-Platzi School of Development and Technology",
       "title": "Curso Profecional de Git Y Git Hub",
-      "summary": "Creacion de sitios web con Java script, Html,css y libreria de React; implementacion de control de versiones de codigo, gestion de tareas en Jira,manejo de librerias de css,maquetacion de sitios web connvirtiendo elementosde figma en elementos web",
+      "summary": "En este curso e aprendido a manejar la termimal de comandos de Git bash manejando repositorios online de Git Hub ",
+      "start_date": "OCT 2023 ",
+      "end_date": "OCT 2023"
+    },
+    {
+      "experience": "-Platzi School of Development and Technology",
+      "title": "Curso JavaScript",
+      "summary": "Creacion de sitios web con Javascript, Html,css y desarrollo de algoritmos",
+      "start_date": "OCT 2023 ",
+      "end_date": "OCT 2023"
+    },
+    {
+      "experience": "-Platzi School of Development and Technology",
+      "title": "Curso Profecional de  React",
+      "summary": "Creacion de aplicacion web de TODOMACHINE con JavaScript, Html,css y libreria de React usando Hucks de react subiendo a git pages",
       "start_date": "OCT 2023 ",
       "end_date": "OCT 2023"
     }
@@ -55,10 +69,19 @@
     {
       "school": "Escuela de Desarrolo y Tecnología de platzi",
       "title": "Curso de programacion basica",
-      "start_date": "2015 ",
+      "start_date": "nov 2023 ",
       "end_date": "nov 2023"
+    },
+    {
+      "school": "Complejo Cetach",
+      "title": "Bachiller industrial y perito en informatica",
+      "start_date": "enero 2022",
+      "end_date": "2024"
     }
   ],
+  
+
+  
   "skills_info": [
     {
       "title": "JavaScript ",
@@ -78,7 +101,7 @@
     },
     {
       "title": "PHP",
-      "level": 4
+      "level": 3
     },
     {
       "title": "PHYTON",
@@ -86,11 +109,11 @@
     },
     {
       "title": "SQL",
-      "level": 4
+      "level": 3
     },
     {
       "title": "Fundamentos de codificación. HTML, CSS, JavaScript, SQL",
-      "level": 1
+      "level": 5
     }
   ],
   "contact": "Contacto"

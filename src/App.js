@@ -15,6 +15,8 @@ import Header from "./componets/Header";
 import LanguageSwitcher from "./componets/LenguageSwitcher";
 
 
+
+
 function App() {
   const [currentLanguage, setCurrentLanguage] = useState("en");
 
@@ -25,10 +27,10 @@ function App() {
   return (
     <div className="App">
       <Container fluid>
-        <Row style={{ backgroundColor: 'rgba(228, 246, 251, 0.75)' }}>
+        <Row style={{ backgroundColor: ' rgba(0, 0, 0, 0.85)' }}>
           <Col><Header /></Col>
         </Row>
-        <Row className="m-5">
+        <Row className="m-5"  >
           <Col>
             <div style={{ color: "#1C8EB5", fontSize: "23px", textAlign: "left" }}>{i18n.t("experience-title")}</div>
             <WorkExperience />
@@ -39,6 +41,7 @@ function App() {
             <Education />
             <div style={{ color: "#1C8EB5", fontSize: "23px", textAlign: "left" }}>{i18n.t("skills-title")}</div>
             <Skills />
+           
           </Col>
         </Row>
 
